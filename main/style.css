@@ -240,6 +240,7 @@ h2{
     background: url(../assets/bg-main-desktop.png)no-repeat;
     background-position: -20vw -70vh ;
     overflow-x: hidden;
+    max-width:1800px;
     }
     .textbox{
         max-width:1015px;
