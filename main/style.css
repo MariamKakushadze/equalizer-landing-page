@@ -129,6 +129,14 @@ h2{
   width:100%;
   border-radius: 12px;
   max-height:61px;
+  text-align:center;
+  padding: 15px 0 15px 0;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+  letter-spacing: -0.18px;
   
 }
 .ios{
@@ -148,16 +156,7 @@ h2{
   background-color: var(--Orange);
   cursor:pointer;
 }
-.lg{
-  text-align:center;
-  padding: 15px 0 15px 0;
-  font-family: 'IBM Plex Sans', sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 32px;
-  letter-spacing: -0.18px;
-}
+
 .footer-txt{
   margin:32px 24px 64px 24px;
 }
